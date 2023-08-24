@@ -1,0 +1,13 @@
+*{
+    margin: 10px;
+}
+.git{
+    background-color: bisque;
+    padding: 15px;
+}
+.heading{
+    background-color: brown;
+    border-radius: 5px;
+    color: wheat;
+    padding: 2px;
+}
